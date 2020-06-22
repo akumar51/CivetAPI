@@ -20,4 +20,12 @@ This is a spring-boot Maven app. So download this repository and in the root fol
 - https://localhost:8080/uploadFile/Description,
 - https://localhost:8080/uploadFile/ProviderIdentity,
 - https://localhost:8080/uploadFile/Licenses,
+- https://localhost:8080/uploadFile/ContactURLMetric,
+- https://localhost:8080/uploadFile/ContactClassicMetric,
+- https://localhost:8080/uploadFile/AccessibilityMetric,
+- https://localhost:8080/uploadFile/VersionMetric,
+- https://localhost:8080/uploadFile/UpdateRateMetric,
+- https://localhost:8080/uploadFile/ReadabilityMetric,
+- https://localhost:8080/uploadFile/TimelinessMetric,
+- https://localhost:8080/uploadFile/ContactEmailMetric,
 - https://localhost:8080/uploadFile/DataFormat.
